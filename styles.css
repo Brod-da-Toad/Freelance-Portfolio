@@ -1,0 +1,220 @@
+body {
+    background-color:#ffe3e3;
+    margin:0rem;
+    
+}
+
+@media (max-width: 768px) {
+    html { 
+        font-size:14px;
+    }
+} 
+
+@media (max-width: 480px) {
+    html { 
+        font-size:12px;
+    }
+} 
+
+header {
+    background-color:#8d80ff;
+    padding:.5rem 1rem;
+    text-align:center;
+    font-weight:bolder;
+    border-bottom:solid 1rem #44e6bf;
+    box-sizing:border-box;
+
+    
+}
+
+#hero-banner {
+    box-sizing:content-box;
+    width:100%;
+    border-bottom:solid 1rem #8d80ff;
+}
+
+nav {
+    width:25%;
+    float:left;
+    margin:.75rem;
+    background-color:#242f40;
+    padding:.4rem;
+    color:rgb(160,160,255);
+    min-height:20rem;
+    text-align:center;
+    font-size:1.5rem;
+    
+}
+
+.links {
+    color:black;
+    text-decoration:none;
+    text-align:center;
+    margin:.8rem 0rem;
+    line-height:250%;
+    font-size:1.25rem;
+    display:inline-block;
+    width:90%;
+    height:3rem;
+    background-color:#8d80ff;
+    padding:.5rem 0rem;
+}
+
+.links-active {
+    color:black;
+    text-decoration:none;
+    text-align:center;
+    margin:.8rem 0rem;
+    line-height:250%;
+    font-size:1.25rem;
+    display:inline-block;
+    width:90%;
+    height:3rem;
+    background-color:#44e6bf;
+    padding:.5rem 0rem;
+    border: solid .25rem white;
+}
+
+main {
+    width:65%;
+    float:right;
+    
+}
+
+h1 {
+    font-size:2.5rem;
+}
+
+h2 {
+    font-size:2rem;
+}
+
+.highlight {
+    font-weight:bolder;
+    text-decoration:underline;
+}
+
+.left-text {
+    float:left;
+    width:55%;
+    font-size:1.5rem;
+    
+}
+
+.float-right-img {
+    float:right;
+    width:30%;
+    margin:.75rem;
+    max-height:16rem;
+    max-width:12.8rem;
+    border-radius:2rem;
+    border:solid #44e6bf .4rem;
+
+}
+
+#why-choose-me {
+    float:left;
+    width:40%;
+    font-size:1.5rem;
+}
+
+#programmer-pic {
+    float:right;
+    width:50%;
+    margin:.75rem;
+    max-height:20rem;
+    max-width:16rem;
+    border-radius:2rem;
+    border:solid #44e6bf .4rem;
+
+}
+
+#cost-desc {
+    width:95%;
+    font-size:1.5rem;
+}
+
+#table-container {
+    clear:both;
+    width:100%;
+    padding-top:2rem;
+}
+
+#pricing-table {
+    border:.25rem solid #242f40;
+    margin:auto;
+    clear:both;
+    width:80%;
+    
+}
+
+#pricing-table th, #pricing-table td {
+    border:.125rem solid #242f40;   
+    border-collapse:collapse;
+    padding:.25rem;
+}
+
+#price-disclaimer {
+    width:70%;
+    margin:auto;
+}
+
+.testimonials {
+    width:100%;
+    display:inline-block;
+    margin:4rem 0rem;
+    padding-bottom:10rem;
+    text-align:center;
+    clear:both;
+    background-color: #44e6bf;
+    height: 16rem;
+    
+}
+
+#first-testimonial {
+    display:inline-block;
+    width:25%;
+    float:left;
+}
+
+#second-testimonial {
+    display:inline-block;
+    width:25%;
+    
+}
+
+#third-testimonial {
+    display:inline-block;
+    width:25%;
+    float:right;
+}
+
+.contact-info {
+    font-weight:bolder;
+    font-size:1.25rem;
+}
+
+footer {
+    border-top:;
+    width:100%;
+    clear:both;
+    line-height:150%;
+    background-color: #242f40;
+    height:12.5rem;
+    color: #44e6bf;
+    border-top:solid 2rem #ffe3e3;
+    box-sizing:content-box;
+}
+
+
+#contact {
+    width:40%;
+    float:left;
+    margin:2rem 1.25rem;
+}
+
+#disclaimer {
+    width:40%;
+    float:right;
+    margin:2rem 1.25rem;
+}
