@@ -133,6 +133,7 @@ h2 {
 #wrap-around-query { 
     clear:both;
     width:90%;
+    font-size:1.5rem;
     }
 } 
 
@@ -140,12 +141,14 @@ h2 {
 #wrap-around-query {
     clear:both;
     width:90%;
+    font-size:1.5rem;
     }
 }
 
 #wrap-around-query {
     clear:both;
     width:40%;
+    font-size:1.5rem;
 }
 
 #cost-desc {
