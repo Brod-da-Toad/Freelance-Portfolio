@@ -120,7 +120,7 @@ h2 {
 
 #programmer-pic {
     float:right;
-    width:55%;
+    width:60%;
     margin:.75rem;
     max-height:25rem;
     max-width:20rem;
@@ -133,7 +133,7 @@ h2 {
 #wrap-around-query { 
     clear:both;
     width:90%;
-    font-size:1.5rem;
+    font-size:1rem;
     }
 } 
 
@@ -141,14 +141,14 @@ h2 {
 #wrap-around-query {
     clear:both;
     width:90%;
-    font-size:1.5rem;
+    font-size:1rem;
     }
 }
 
 #wrap-around-query {
     clear:both;
     width:40%;
-    font-size:1.5rem;
+    font-size:1rem;
 }
 
 #cost-desc {
