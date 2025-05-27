@@ -131,13 +131,15 @@ h2 {
 
 @media (max-width: 768px) {
 #wrap-around-query { 
-    width:130%;
+    float:right;
+    width:90%;
     }
 } 
 
 @media (max-width: 480px) {
 #wrap-around-query {
-    width:140%;
+    float:right;
+    width:90%;
     }
 }
 
