@@ -143,6 +143,11 @@ h2 {
     }
 }
 
+#wrap-around-query {
+    clear:both;
+    width:40%;
+}
+
 #cost-desc {
     width:95%;
     font-size:1.5rem;
